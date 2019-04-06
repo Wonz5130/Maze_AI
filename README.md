@@ -56,41 +56,41 @@
 
 * 游戏界面
 
-![](img\游戏界面.png)
+![](https://github.com/Wonz5130/Maze_AI/raw/master/img/%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2.png)
 
 * 开始游戏：左上角有步数统计
 
-![](img\记步数.png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E8%AE%B0%E6%AD%A5%E6%95%B0.png?1554527510971>)
 
 * 遇到障碍的信息反馈
 
-![](img\障碍反馈.png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E9%9A%9C%E7%A2%8D%E5%8F%8D%E9%A6%88.png?1554527532798>)
 
 * AI自动走迷宫（程序还有待完善，步数统计存在问题）
 
-![](img\AI自动走迷宫.png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/AI%E8%87%AA%E5%8A%A8%E8%B5%B0%E8%BF%B7%E5%AE%AB.png?1554527553844>)
 
 * 存在的问题：有时 AI 程序会崩溃，暂时还没有找到 bug
 
-![](img\游戏奔溃截图.png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E6%B8%B8%E6%88%8F%E5%A5%94%E6%BA%83%E6%88%AA%E5%9B%BE.png?1554527574840>)
 
 ##### 2. 非随机生成地图的迷宫
 
 * 游戏界面：起点在最右边，终点在最左边红色位置
 
-![](img\新游戏界面(非随机生成地图).png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E6%96%B0%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2(%E9%9D%9E%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%9C%B0%E5%9B%BE).png?1554527590212>)
 
 * 开始游戏：左上角有步数统计
 
-![](img\新记步数(非随机生成地图).png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E6%96%B0%E8%AE%B0%E6%AD%A5%E6%95%B0(%E9%9D%9E%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%9C%B0%E5%9B%BE).png?1554527613266>)
 
 * 遇到障碍的信息反馈
 
-![](img\新障碍反馈(非随机生成地图).png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E6%96%B0%E9%9A%9C%E7%A2%8D%E5%8F%8D%E9%A6%88(%E9%9D%9E%E9%9A%8F%E6%9C%BA%E7%94%9F%E6%88%90%E5%9C%B0%E5%9B%BE).png?1554527628476>)
 
 * 走出迷宫：输出“Win”
 
-![](img\走出迷宫.png)
+![](<https://github.com/Wonz5130/Maze_AI/raw/master/img/%E8%B5%B0%E5%87%BA%E8%BF%B7%E5%AE%AB.png?1554527645787>)
 
 ### （八）不足与反思
 
