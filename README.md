@@ -1,5 +1,7 @@
 # Maze_AI
-:ghost:一款基于 `Python` + `Pygame` + `AI算法` 的 `迷宫小游戏`
+## :ghost:一款基于 `Python` + `Pygame` + `AI算法` 的 `迷宫小游戏`
+
+[![](https://img.shields.io/github/stars/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/stargazers) [![](https://img.shields.io/github/forks/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/network/members) [![](https://img.shields.io/github/issues/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/issues) [![](https://img.shields.io/github/license/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/blob/master/LICENSE)
 
 ### （一）课题内容
 实现走迷宫。  
