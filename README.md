@@ -4,9 +4,9 @@
 [![](https://img.shields.io/github/stars/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/stargazers) [![](https://img.shields.io/github/forks/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/network/members) [![](https://img.shields.io/github/issues/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/issues) [![](https://img.shields.io/github/license/Wonz5130/Maze_AI.svg)](https://github.com/Wonz5130/Maze_AI/blob/master/LICENSE)
 
 ### （一）课题内容
-实现走迷宫。  
-主要功能为界面显示、上下左右键的响应以及当前步数统计。  
-通过该课题全面熟悉数组、字符串等的使用，掌握程序设计的基本方法及友好界面的设计。  
+* 实现走迷宫。  
+* 主要功能为界面显示、上下左右键的响应以及当前步数统计。  
+* 通过该课题全面熟悉数组、字符串等的使用，掌握程序设计的基本方法及友好界面的设计。  
 
 ### （二）课题要求
 ##### 1. 基本要求
@@ -19,9 +19,9 @@
 （2）设计一个自动走迷宫的程序，使得得到最短路径。
 
 ### （三）组队分工情况
-##### 团队名称：import python
-##### 团队成员：Wonz（没错就我一个人）
-##### 分工：全部（好像给自己挖了个巨坑）
+* 团队名称：import python
+* 团队成员：Wonz（没错就我一个人）
+* 分工：全部（好像给自己挖了个巨坑）
 
 ### （四）ToDo
 - [ ] 2018.10.29-2018.10.30：学习 `PyQt5` + `Tkinter`  
